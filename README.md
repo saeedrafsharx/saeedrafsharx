@@ -24,6 +24,17 @@ Feel free to connect, collaborate, or drop a message!
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Nilearn](https://img.shields.io/badge/nilearn-005BBB?style=for-the-badge&logo=brainly&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/uvicorn-121212?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -38,6 +49,7 @@ Feel free to connect, collaborate, or drop a message!
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Mendeley](https://img.shields.io/badge/Mendeley-9A1B2E.svg?style=for-the-badge&logo=mendeley&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 ---
 
