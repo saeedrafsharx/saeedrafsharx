@@ -124,6 +124,15 @@ Focus: computational neuroscience, network science, machine learning, fMRI analy
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saeedrafsharx&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedrafsharx&theme=dark&hide_border=true&layout=compact" height="160" />
+  <img src="https://img.shields.io/github/followers/saeedrafsharx?style=flat-square&logo=github&label=Followers&color=181717" />
+  <img src="https://img.shields.io/github/stars/saeedrafsharx?style=flat-square&logo=github&label=Stars&color=1f6feb" />
+  <img src="https://komarev.com/ghpvc/?username=saeedrafsharx&style=flat-square&label=Profile%20Views&color=37814A" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedrafsharx&theme=dark&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saeedrafsharx&theme=react-dark&hide_border=true&area=true" width="95%" />
 </p>
