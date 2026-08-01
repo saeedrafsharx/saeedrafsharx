@@ -8,7 +8,7 @@
 
 <br>
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@saeidrafshar)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC_98EqzehlUBOwsggG1JkjA?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&label=YOUTUBE)](https://www.youtube.com/@saeidrafshar?sub_confirmation=1)
 [![Website](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white)](https://saeedrafsharx.github.io)
 [![LinkedIn](https://img.shields.io/badge/in%2Fsaeedrafshar-0077B5?style=for-the-badge)](https://linkedin.com/in/saeedrafshar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saeedrafsharx@gmail.com)
@@ -26,16 +26,19 @@ I build **production Python systems** — high-throughput APIs, data pipelines, 
 
 - 🔭 Currently: **Senior Python Developer & DevOps Engineer** at Safron System
 - 🧠 Researching brain networks at **CCNSD, Shahid Beheshti University** — 2 papers under review
-- 🎥 Teaching Python, AI & backend engineering on **[YouTube](https://www.youtube.com/@saeidrafshar)**
+- 🎥 Teaching Python, AI & backend engineering on **[The Brain Terminal](https://www.youtube.com/@saeidrafshar)**
 - ⚡ From `pip install` to production Docker deploys — I own the whole stack
 
 ---
 
-# 🎥 YouTube Channel
+# 🎥 The Brain Terminal
 
 <div align="center">
 
 ### **Python · AI/ML · Backend Engineering — explained properly**
+
+[![Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_98EqzehlUBOwsggG1JkjA?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&label=SUBSCRIBERS)](https://www.youtube.com/@saeidrafshar?sub_confirmation=1)
+[![Views](https://img.shields.io/youtube/channel/views/UC_98EqzehlUBOwsggG1JkjA?style=for-the-badge&logo=youtube&logoColor=white&color=282828&label=TOTAL%20VIEWS)](https://www.youtube.com/@saeidrafshar/videos)
 
 [![Watch on YouTube](https://img.shields.io/badge/▶%20WATCH%20NOW-@saeidrafshar-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@saeidrafshar)
 
